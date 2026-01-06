@@ -1,4 +1,4 @@
-# 時辰鐘 <sub>（只支持正體中文）</sub>
+# 時辰鐘<img src="ShiChenClock 64.png"> <sub>（只支持正體中文）</sub>
 <h3>
   農曆時辰圓鐘（帶鐘攞）
   <hr>
